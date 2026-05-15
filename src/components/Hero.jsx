@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="hero-image-wrapper">
           <div className="hero-image-backdrop"></div>
           <img 
-            src="/bubble_tea_1778813674459.png" 
+            src={`${import.meta.env.BASE_URL}bubble_tea_1778813674459.png`} 
             alt="Premium KOKO Bubble Tea" 
             className="hero-image"
           />
