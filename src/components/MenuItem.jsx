@@ -7,7 +7,7 @@ const MenuItem = ({ product }) => {
   return (
     <div className="menu-item glass-panel">
       <div className="menu-item-image-wrapper">
-        <img src={`${import.meta.env.BASE_URL}${imagePath}`} alt={product.name} className="menu-item-image" />
+        <img src={`${import.meta.env.BASE_URL}${imagePath}`} alt={product.name} className="menu-item-image" loading="lazy" />
       </div>
       <div className="menu-item-info">
         <div className="menu-item-header">
