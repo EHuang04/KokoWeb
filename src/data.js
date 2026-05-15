@@ -36,7 +36,7 @@ export const products = [
   { id: 24, name: "Mochi con Fresas", category: "Postres", price: 3500, image: "/MochiConFresas_Postre.png" },
   { id: 25, name: "Mochi con Oreo", category: "Postres", price: 3500, image: "/MochiConOreo_Postre.png" },
   { id: 26, name: "Mochi con Frutas", category: "Postres", price: 3000, image: "/MochiConFrutas_Postre.png" },
-  { id: 27, name: "Granizado con Frutas y Helado", category: "Postres", price: 2200, image: "/dessert_1778813787238.png" },
+  { id: 27, name: "Granizado con Frutas y Helado", category: "Postres", price: 2200, image: "/Granizado_Postre.png" },
 
   // Comidas Asiáticas
   { id: 29, name: "Combo Arroz Taiwanés con Bebida", category: "Comidas Asiáticas", price: 3500, image: "/ComboArrozTaiwanés_ComidaAsiatica.png" },
