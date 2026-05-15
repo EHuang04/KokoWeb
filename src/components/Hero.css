@@ -60,15 +60,7 @@
   width: 100%;
 }
 
-.hero-image-backdrop {
-  position: absolute;
-  width: 90%;
-  height: 90%;
-  background-color: var(--color-tertiary);
-  border-radius: 50%;
-  z-index: -1;
-  animation: float 6s ease-in-out infinite;
-}
+
 
 .hero-image {
   width: 100%;
